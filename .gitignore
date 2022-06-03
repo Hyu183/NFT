@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+report.docx
+18120183.pdf
+
+#Hardhat files
+cache
+artifacts
+
+
